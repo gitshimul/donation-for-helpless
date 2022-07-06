@@ -66,3 +66,13 @@ button {
     background: red;
     color: white;
 }
+
+.be-humble {
+    background-color: black;
+    font-style: italic;
+}
+
+h4 {
+    color: cornflowerblue;
+    text-align: center;
+}
